@@ -64,6 +64,7 @@ pages:
   - Mods: 'hw/mods.md'
 - Software:
   - Info and Architecture: 'sw/info.md'
+  - Ecosystem: 'sw/ecosystem.md'
 - Contributing:
   - Documentation: 'contributions/documentation.md'
   - Applications: 'contributions/app.md'
